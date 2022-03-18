@@ -1,2 +1,3 @@
-# bugreports
-A collection of bug report sample code
+# Bug Reports
+
+A collection of bug report sample code.
